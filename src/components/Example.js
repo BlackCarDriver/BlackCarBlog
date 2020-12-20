@@ -1,14 +1,14 @@
-import React from 'react';
+import React from 'react'
 
 const Example = () => {
-  return (
-    <div>
+	return (
+		<div>
       Example
-    </div>
-  );
-};
+		</div>
+	)
+}
 
 Example.propTypes = {
-};
+}
 
-export default Example;
+export default Example
